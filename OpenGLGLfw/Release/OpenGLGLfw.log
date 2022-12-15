@@ -1,0 +1,25 @@
+﻿  ball_object.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\ball_object.h(12,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  game.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\game.h(12,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  game_level.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\game_level.h(14,10): fatal error C1083: 无法打开包括文件: “glm/glm.hpp”: No such file or directory
+  game_object.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\game_object.h(13,10): fatal error C1083: 无法打开包括文件: “glm/glm.hpp”: No such file or directory
+  myGameBreakOut.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\myGameBreakOut.cpp(9,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  particle_generator.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\particle_generator.h(13,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  post_processor.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\post_processor.h(12,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  resource_manager.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\resource_manager.h(15,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  shader.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\shader_b.h(13,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  sprite_renderer.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\sprite_renderer.h(12,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  texture.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\texture.h(12,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  text_renderer.cpp
+F:\VS2019\OpenGLGLfw\breakout\header\text_renderer.cpp(11,10): fatal error C1083: 无法打开包括文件: “glm/gtc/matrix_transform.hpp”: No such file or directory
+  stb_image.cpp

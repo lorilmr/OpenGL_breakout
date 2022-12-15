@@ -1,0 +1,2 @@
+F:\VS2019\OpenGLGLfw\Debug\OpenGLGLfw.exe
+E:\VS2019\OpenGLGLfw\Debug\OpenGLGLfw.exe
